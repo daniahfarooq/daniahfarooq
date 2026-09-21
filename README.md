@@ -28,7 +28,7 @@ I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbr
 ### 🚀 Featured Projects
 
 **✈️ Airline Passenger Satisfaction — Random Forest vs Logistic Regression (R)**
-Built a passenger-satisfaction classifier on ~130,000 records as a business case for an airline. Random Forest reached **96.3% accuracy (AUC 0.994)**, beating Logistic Regression by ~9 points. Translated model results into a tiered service-investment framework identifying inflight Wi-Fi and digital experience as top differentiation priorities.
+Built a passenger-satisfaction classifier on ~130,000 records as a business case for a full-service airline. Random Forest reached **96.3% accuracy (AUC 0.994)**, beating Logistic Regression by ~9 points. Translated model results into a tiered service-investment framework identifying inflight Wi-Fi and digital experience as top differentiation priorities.
 `R` · `Random Forest` · `Classification` · `Business Strategy`
 → [View project](https://github.com/daniahfarooq/airline-passenger-satisfaction)
 
