@@ -30,7 +30,7 @@ I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbr
 **✈️ Airline Passenger Satisfaction — Random Forest vs Logistic Regression (R)**
 Built a passenger-satisfaction classifier on ~130,000 records as a business case for an airline. Random Forest reached **96.3% accuracy (AUC 0.994)**, beating Logistic Regression by ~9 points. Translated model results into a tiered service-investment framework identifying inflight Wi-Fi and digital experience as top differentiation priorities.
 `R` · `Random Forest` · `Classification` · `Business Strategy`
-→ [View project](#)
+→ [View project](https://github.com/daniahfarooq/airline-passenger-satisfaction)
 
 **⚡ Hourly Electricity Demand Forecasting — Per-Zone Model Selection (R)**
 End-to-end forecasting of hourly electricity demand across three city grid zones (52,000+ SCADA + weather observations). Compared six models (MLR, Decision Tree, Random Forest, XGBoost, KNN, Holt-Winters) and found **model choice was zone-specific** — recommending XGBoost, Random Forest, or transparent Linear Regression depending on each zone's needs, with a full deployment & drift-monitoring framework.
