@@ -35,7 +35,7 @@ Built a passenger-satisfaction classifier on ~130,000 records as a business case
 **⚡ Hourly Electricity Demand Forecasting — Per-Zone Model Selection (R)**
 End-to-end forecasting of hourly electricity demand across three city grid zones (52,000+ SCADA + weather observations). Compared six models (MLR, Decision Tree, Random Forest, XGBoost, KNN, Holt-Winters) and found **model choice was zone-specific** — recommending XGBoost, Random Forest, or transparent Linear Regression depending on each zone's needs, with a full deployment & drift-monitoring framework.
 `R` · `Time Series` · `XGBoost` · `Forecasting`
-→ [View project](#)
+→ [View project](https://github.com/daniahfarooq/electricity-demand-forecasting)
 
 **📊 Sales Performance Dashboard (R Shiny)**
 Interactive R Shiny dashboard for monitoring sales KPIs — revenue trends, performance breakdowns, and dynamic filtering for on-the-fly analysis. Built with anonymised data to protect commercial confidentiality, with a focus on clear visual communication for business stakeholders.
