@@ -37,6 +37,11 @@ End-to-end forecasting of hourly electricity demand across three city grid zones
 `R` · `Time Series` · `XGBoost` · `Forecasting`
 → [View project](https://github.com/daniahfarooq/electricity-demand-forecasting)
 
+**🚗 Used-Car Price Prediction — Six-Model Comparison (R)**
+Compared six models (Linear, Decision Tree, KNN, Polynomial, Random Forest, XGBoost) to predict used-car prices on 45,000+ listings. XGBoost led with **96.3% R² (MAE 0.094)**, with model year and engine size the strongest price drivers. Full EDA, feature engineering, and honest model evaluation.
+`R` · `XGBoost` · `Random Forest` · `Regression`
+→ [View project](https://github.com/daniahfarooq/used-car-price-prediction)
+
 **📊 Sales Performance Dashboard (R Shiny)**
 Interactive R Shiny dashboard for monitoring sales KPIs — revenue trends, performance breakdowns, and dynamic filtering for on-the-fly analysis. Built with anonymised data to protect commercial confidentiality, with a focus on clear visual communication for business stakeholders.
 `R Shiny` · `Dashboard` · `KPI Reporting` · `Data Visualisation`
