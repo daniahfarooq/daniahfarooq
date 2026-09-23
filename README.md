@@ -42,6 +42,11 @@ Compared six models (Linear, Decision Tree, KNN, Polynomial, Random Forest, XGBo
 `R` · `XGBoost` · `Random Forest` · `Regression`
 → [View project](https://github.com/daniahfarooq/used-car-price-prediction)
 
+**📊 AI in Digital Media: Data Management & Visualisation (R)**
+End-to-end data workflow on a global AI-impact dataset: cleaning, type conversion, and feature engineering (rule-based vs quantile grouping), followed by ten storytelling visualisations across countries, industries, and regulatory environments. Focus on data management and clear visual communication.
+`R` · `ggplot2` · `Data Management` · `Visualisation`
+→ [View project](https://github.com/daniahfarooq/ai-digital-media-data-viz)
+
 **📊 Sales Performance Dashboard (R Shiny)**
 Interactive R Shiny dashboard for monitoring sales KPIs — revenue trends, performance breakdowns, and dynamic filtering for on-the-fly analysis. Built with anonymised data to protect commercial confidentiality, with a focus on clear visual communication for business stakeholders.
 `R Shiny` · `Dashboard` · `KPI Reporting` · `Data Visualisation`
