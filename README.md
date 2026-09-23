@@ -47,6 +47,11 @@ End-to-end data workflow on a global AI-impact dataset: cleaning, type conversio
 `R` · `ggplot2` · `Data Management` · `Visualisation`
 → [View project](https://github.com/daniahfarooq/ai-digital-media-data-viz)
 
+**🎓 Student Performance Factors: Data Management & Visualisation (R)**
+End-to-end analysis of 6,600+ student records for an education context: cleaning, missing-value handling, feature engineering, and nine storytelling visualisations (including multivariate facet analysis) identifying what drives exam performance, ending in evidence-informed recommendations for schools.
+`R` · `ggplot2` · `Data Management` · `Visualisation`
+→ [View project](https://github.com/daniahfarooq/student-performance-factors)
+
 **📊 Sales Performance Dashboard (R Shiny)**
 Interactive R Shiny dashboard for monitoring sales KPIs — revenue trends, performance breakdowns, and dynamic filtering for on-the-fly analysis. Built with anonymised data to protect commercial confidentiality, with a focus on clear visual communication for business stakeholders.
 `R Shiny` · `Dashboard` · `KPI Reporting` · `Data Visualisation`
