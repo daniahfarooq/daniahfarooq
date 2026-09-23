@@ -66,14 +66,7 @@ Interactive R Shiny dashboard tracking pool maintenance operations and performan
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniah-farooq-629220197">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:daniahfarooq19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
