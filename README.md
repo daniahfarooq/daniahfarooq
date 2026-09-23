@@ -65,14 +65,3 @@ Interactive R Shiny dashboard tracking pool maintenance operations and performan
 ---
 
 ### 📫 Let's Connect
-
-
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniahfarooq&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Daniah's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniahfarooq&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</p>
