@@ -56,15 +56,6 @@ End-to-end analysis of 6,600+ student records for an education context: cleaning
 `SPSS` · `Statistics` · `Hypothesis Testing` · `Healthcare Analytics`
 → [View project](https://github.com/daniahfarooq/spss-medical-insurance-analysis)
 
-**📊 Sales Performance Dashboard (R Shiny)**
-Interactive R Shiny dashboard for monitoring sales KPIs — revenue trends, performance breakdowns, and dynamic filtering for on-the-fly analysis. Built with anonymised data to protect commercial confidentiality, with a focus on clear visual communication for business stakeholders.
-`R Shiny` · `Dashboard` · `KPI Reporting` · `Data Visualisation`
-→ [View project](#)
-
-**🏊 Pool Maintenance Performance Dashboard (R Shiny)**
-Interactive R Shiny dashboard tracking pool maintenance operations and performance metrics, designed to give operators an at-a-glance view of service activity and key indicators.
-`R Shiny` · `Dashboard` · `Operations Analytics` · `Data Visualisation`
-→ [View project](#)
 
 ---
 
