@@ -52,6 +52,10 @@ End-to-end analysis of 6,600+ student records for an education context: cleaning
 `R` · `ggplot2` · `Data Management` · `Visualisation`
 → [View project](https://github.com/daniahfarooq/student-performance-factors)
 
+🏥 **Medical Insurance Cost Analysis: What Drives Health Insurance Charges (SPSS)** A business-framed statistical study on 1,338 records identifying which health and demographic factors drive insurance cost. **Smokers cost about $23,600 more on average**, the single largest factor, established through regression, chi-square, and t-tests with full assumption checks.
+`SPSS` · `Statistics` · `Hypothesis Testing` · `Healthcare Analytics`
+→ [View project](https://github.com/daniahfarooq/spss-medical-insurance-analysis)
+
 **📊 Sales Performance Dashboard (R Shiny)**
 Interactive R Shiny dashboard for monitoring sales KPIs — revenue trends, performance breakdowns, and dynamic filtering for on-the-fly analysis. Built with anonymised data to protect commercial confidentiality, with a focus on clear visual communication for business stakeholders.
 `R Shiny` · `Dashboard` · `KPI Reporting` · `Data Visualisation`
