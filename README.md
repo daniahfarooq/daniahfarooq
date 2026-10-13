@@ -27,6 +27,8 @@ I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbr
 
 ### 🚀 Featured Projects
 
+🚗 **VORIN Automotive Performance Dashboard (Power BI)** A five-page executive dashboard analysing a car manufacturer's four-year performance across Finance, Operations, Marketing, and People. Built on a star-schema data model with over sixty DAX measures, synchronised navigation, and bookmark-driven insight panels. The company grew revenue 75 percent and moved from a cash deficit to over 1.5 billion in reserves, and the dashboard makes the drivers behind that turnaround visible at a glance. `Power BI` · `DAX` · `Data Modelling` · `Dashboard Design` → [View project](https://github.com/daniahfarooq/vorin-powerbi-dashboard)
+
 **✈️ Airline Passenger Satisfaction — Random Forest vs Logistic Regression (R)**
 Built a passenger-satisfaction classifier on ~130,000 records as a business case for a full-service airline. Random Forest reached **96.3% accuracy (AUC 0.994)**, beating Logistic Regression by ~9 points. Translated model results into a tiered service-investment framework identifying inflight Wi-Fi and digital experience as top differentiation priorities.
 `R` · `Random Forest` · `Classification` · `Business Strategy`
