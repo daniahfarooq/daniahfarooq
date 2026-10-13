@@ -17,11 +17,11 @@
 
 ### 👩‍💻 About Me
 
-I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbria University**. I specialise in turning data into stories that people can act on — combining rigorous statistical modelling with clear visual communication.
+I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbria University**. I specialise in turning data into stories that people can act on, combining rigorous statistical modelling with clear visual communication.
 
 - 🔍 **Focus:** predictive modelling, forecasting, and interactive dashboards
 - 🛠️ **Tools:** Power BI · R · R Shiny · SPSS · SQL
-- 🎯 **What I care about:** making analysis *usable* — actionable recommendations, not just numbers
+- 🎯 **What I care about:** making analysis *usable*, actionable recommendations, not just numbers
 
 ---
 
