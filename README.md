@@ -27,6 +27,9 @@ I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbr
 
 ### 🚀 Featured Projects
 
+
+🧾 **Purchase Order Analytics: Procurement Spend & Invoicing (Power BI)** An end-to-end procurement report built from raw SAP extracts covering 11,931 purchase orders worth **$406.67M** across 11 plants and 1,646 vendors. Cleaned four messy source tables in Power Query (text dates, broken character encoding, orphan records, an empty project field), designed a star schema with line-level allocation that **reconciles exactly to PO totals**, and wrote 44 DAX measures including like-for-like time intelligence and dynamic vendor ranking. The report shows the top 10 vendors take **44% of spend** and **$238M of active POs** still have no invoice. `Power BI` · `Power Query` · `DAX` · `Data Modelling` → [View project](https://github.com/daniahfarooq/purchase-order-analytics-powerbi)
+
 🚗 **VORIN Automotive Performance Dashboard (Power BI)** A five-page executive dashboard analysing a car manufacturer's four-year performance across Finance, Operations, Marketing, and People. Built on a star-schema data model with over sixty DAX measures, synchronised navigation, and bookmark-driven insight panels. The company grew revenue 75 percent and moved from a cash deficit to over 1.5 billion in reserves, and the dashboard makes the drivers behind that turnaround visible at a glance. `Power BI` · `DAX` · `Data Modelling` · `Dashboard Design` → [View project](https://github.com/daniahfarooq/vorin-powerbi-dashboard)
 
 **✈️ Airline Passenger Satisfaction — Random Forest vs Logistic Regression (R)**
