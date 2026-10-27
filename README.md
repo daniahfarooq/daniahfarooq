@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R_Shiny-0099F9?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <a href="#power-bi-projects"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+  <a href="#r-projects"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
+  <a href="#r-projects"><img src="https://img.shields.io/badge/R_Shiny-0099F9?style=for-the-badge&logo=r&logoColor=white"/></a>
+  <a href="#sql-projects"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="#spss-projects"><img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white"/></a>
 </p>
 
 ---
@@ -27,10 +27,13 @@ I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbr
 
 ### 🚀 Featured Projects
 
+### Power BI projects
 
 🧾 **Purchase Order Analytics: Procurement Spend & Invoicing (Power BI)** An end-to-end procurement report built from raw SAP extracts covering 11,931 purchase orders worth **$406.67M** across 11 plants and 1,646 vendors. Cleaned four messy source tables in Power Query (text dates, broken character encoding, orphan records, an empty project field), designed a star schema with line-level allocation that **reconciles exactly to PO totals**, and wrote 44 DAX measures including like-for-like time intelligence and dynamic vendor ranking. The report shows the top 10 vendors take **44% of spend** and **$238M of active POs** still have no invoice. `Power BI` · `Power Query` · `DAX` · `Data Modelling` → [View project](https://github.com/daniahfarooq/purchase-order-analytics-powerbi)
 
 🚗 **VORIN Automotive Performance Dashboard (Power BI)** A five-page executive dashboard analysing a car manufacturer's four-year performance across Finance, Operations, Marketing, and People. Built on a star-schema data model with over sixty DAX measures, synchronised navigation, and bookmark-driven insight panels. The company grew revenue 75 percent and moved from a cash deficit to over 1.5 billion in reserves, and the dashboard makes the drivers behind that turnaround visible at a glance. `Power BI` · `DAX` · `Data Modelling` · `Dashboard Design` → [View project](https://github.com/daniahfarooq/vorin-powerbi-dashboard)
+
+### R projects
 
 **✈️ Airline Passenger Satisfaction — Random Forest vs Logistic Regression (R)**
 Built a passenger-satisfaction classifier on ~130,000 records as a business case for a full-service airline. Random Forest reached **96.3% accuracy (AUC 0.994)**, beating Logistic Regression by ~9 points. Translated model results into a tiered service-investment framework identifying inflight Wi-Fi and digital experience as top differentiation priorities.
@@ -56,6 +59,8 @@ End-to-end data workflow on a global AI-impact dataset: cleaning, type conversio
 End-to-end analysis of 6,600+ student records for an education context: cleaning, missing-value handling, feature engineering, and nine storytelling visualisations (including multivariate facet analysis) identifying what drives exam performance, ending in evidence-informed recommendations for schools.
 `R` · `ggplot2` · `Data Management` · `Visualisation`
 → [View project](https://github.com/daniahfarooq/student-performance-factors)
+
+### SPSS projects
 
 🏥 **Medical Insurance Cost Analysis: What Drives Health Insurance Charges (SPSS)** A business-framed statistical study on 1,338 records identifying which health and demographic factors drive insurance cost. **Smokers cost about $23,600 more on average**, the single largest factor, established through regression, chi-square, and t-tests with full assumption checks.
 `SPSS` · `Statistics` · `Hypothesis Testing` · `Healthcare Analytics`
