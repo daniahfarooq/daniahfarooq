@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniah Farooq 👋</h1>
 
 <p align="center">
-  <b>Data & Business Analyst</b><br>
+  <b>Data & Business Intelligence Analyst</b><br>
   Turning complex data into clear, actionable business decisions.
 </p>
 
@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Data & Business Analyst with an **MSc in Business Analytics from Northumbria University**. I specialise in turning data into stories that people can act on, combining rigorous statistical modelling with clear visual communication.
+I'm a Data & Business Intelligence Analyst with an **MSc in Business Analytics from Northumbria University**. I specialise in turning data into stories that people can act on, combining rigorous statistical modelling with clear visual communication.
 
 - 🔍 **Focus:** predictive modelling, forecasting, and interactive dashboards
 - 🛠️ **Tools:** Power BI · R · R Shiny · SPSS · SQL
